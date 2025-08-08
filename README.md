@@ -66,14 +66,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or support, feel free to reach out to:
-
-**Farhan Sadik Galib**  
-Mobile Apps Developer
-
-🌐 [farhansadikgalib.com](https://farhansadikgalib.com/)
-
-Let's create extraordinary solutions together!
